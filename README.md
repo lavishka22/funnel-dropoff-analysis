@@ -98,6 +98,10 @@ Provide a short tree of important files and folders. Example:
 - results/             # generated outputs, charts, reports
 - requirements.txt
 - README.md
+  
+## Recommendation
+
+The largest drop-off indicates the stage where users experience the most friction. Improving the user experience at this step—for example by simplifying forms, reducing verification complexity, or improving page performance—could significantly increase overall conversion.
 
 ## Contributing
 
