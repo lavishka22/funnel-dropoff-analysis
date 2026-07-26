@@ -1,0 +1,6 @@
+Stage,Users,Conversion Rate (%),Users Lost
+visited_site,200,100.0,0.0
+signup_started,150,75.0,50.0
+details_filled,96,64.0,54.0
+email_verified,52,54.17,44.0
+purchase_completed,44,84.62,8.0
